@@ -1,0 +1,22 @@
+.dashboard {
+  min-height: 90%;
+  /* width: 90%; */
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  font-family: "Open Sans";
+  /* background: #eee; */
+  /* margin-top: 3%; */
+}
+
+.msg {
+  /* font-weight: bold; */
+  /* text-transform: uppercase; */
+  text-align: center;
+  font-size: 3em;
+}
+
+.title {
+  padding: 1em 4em;
+  color: #0c1442;
+}

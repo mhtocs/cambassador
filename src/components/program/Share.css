@@ -1,0 +1,19 @@
+.Share__some-network {
+  vertical-align: top;
+  display: inline-block;
+  margin: 0 1em;
+  text-align: center;
+}
+
+.Share__some-network__share-count {
+  margin-top: 3px;
+  font-size: 12px;
+}
+
+.Share__some-network__share-button {
+  cursor: pointer;
+}
+
+.Share__some-network__share-button:hover:not(:active) {
+  opacity: 0.75;
+}
